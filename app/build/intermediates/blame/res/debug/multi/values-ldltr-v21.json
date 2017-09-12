@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/anuraag/AndroidStudioProjects/rhythm1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/anuraag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/3e278848172add45196ecc473ff5a0dd/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

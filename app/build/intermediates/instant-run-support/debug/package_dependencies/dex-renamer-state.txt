@@ -1,0 +1,7 @@
+#Sat Sep 09 14:43:49 PDT 2017
+base.0=/Users/anuraag/AndroidStudioProjects/rhythm1/app/build/intermediates/transforms/dexMerger/debug/16
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/anuraag/AndroidStudioProjects/rhythm1/app/build/intermediates/transforms/dexMerger/debug/16/classes2.dex
+base.1=/Users/anuraag/AndroidStudioProjects/rhythm1/app/build/intermediates/transforms/dexMerger/debug/16
+file.0=/Users/anuraag/AndroidStudioProjects/rhythm1/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex
